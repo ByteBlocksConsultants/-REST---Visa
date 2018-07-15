@@ -17,6 +17,17 @@ suspicious spend with the touch of a button.
 
 ![](https://usa.visa.com/content/dam/VCOM/Brand/logo-footer.png)
 
+#### Visa APIs utilized
+ 
+###### Visa Transaction Controls
+
+	Visa - Enrollment Callback API
+	Visa - Notification Delivery Callback API
+	Visa - Authorization API
+	Visa - Customer Alerts Preference API
+	Visa - Program Administration API
+	Visa - Customer Rules API
+
 #### [Business Value](https://github.com/markdown-it/markdown-it-sub) 
 
 - At the touch of a button, cardholders can disable or enable the use of their card.
@@ -42,3 +53,5 @@ suspicious spend with the touch of a button.
 
   
  
+  
+   
