@@ -9,7 +9,7 @@ suspicious spend with the touch of a button.
 .NET Core 2.0, C#, REST
 
 ## Visa Transaction Controls APIs
-![File](Solution Items/file.png)
+ https://developer.visa.com/capabilities/vctc
 
 ## Useful Resources
 https://developer.visa.com
