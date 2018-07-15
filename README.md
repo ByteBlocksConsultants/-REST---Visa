@@ -13,9 +13,7 @@ suspicious spend with the touch of a button.
 -  REST
 
  
- ## [Visa Transaction Controls APIs]() 
-
-![](https://usa.visa.com/content/dam/VCOM/Brand/logo-footer.png)
+ ## [Visa Transaction Controls APIs]()  
 
 #### Visa APIs utilized
  
