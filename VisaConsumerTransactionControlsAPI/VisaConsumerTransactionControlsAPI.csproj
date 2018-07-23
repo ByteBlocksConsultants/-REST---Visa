@@ -2,9 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RootNamespace>VisaConsumerTransactionControlsAPI</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Config\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
