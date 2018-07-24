@@ -13,7 +13,20 @@ suspicious spend with the touch of a button.
 -  REST
 
  ## 
+ 
+### <span style="color:#192D90"> Certificates </span> 
+###### <span style="color:#9AA0BD">Client Cert / Application Cert</span> 
+The client cert will be creaated once you create a sandbox
+project.  
+- Sandbox Environment: Required
+- Production Envrionment: Required
+###### <span style="color:#9AA0BD">Root Cert</span> 
+The root cert will be creaated once you create a sandbox
+project.
+- Sandbox Environment: Optional
+- Production Envrionment: Required
   
+ 
 ### <span style="color:#192D90"> Visa Transaction Controls APIs </span> 
   
 ##### Visa Transaction Controls
