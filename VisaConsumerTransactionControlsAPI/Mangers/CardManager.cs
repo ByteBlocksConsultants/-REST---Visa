@@ -56,5 +56,10 @@ namespace VisaConsumerTransactionControlsAPI.Models
                 IsSuccess = false
             };
         }
+
+        public Task<DeleteResponse> DeleteCardConfiguration(ControlDeleteRequest entity)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
